@@ -1,11 +1,6 @@
 
-Tasks:
-Optical Flow
-Dense Optical Flow
-MeanShift Tracking
-CamShift Tracking
-Single Tracking
-Multi Tracking
+Tasks: Optical Flow, Dense Optical Flow, MeanShift Tracking, CamShift Tracking, Single Tracking, Multi Tracking
+
 You can Run the cell by:
 
 clicking on the Run button
@@ -26,5 +21,3 @@ Scale Factor Parameter specifying how much yhe image size is reduced at each ima
 Min Neighbors Parameter specifying how many neighbors each candidate rectangle should have to retain it.
 HSV colorspace
 https://docs.opencv.org/3.4/da/d97/tutorial_threshold_inRange.html
-
-In [ ]:
